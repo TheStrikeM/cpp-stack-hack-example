@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/call_stack_hack.dir/main.cpp.o -o call_stack_hack 
